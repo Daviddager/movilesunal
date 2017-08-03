@@ -4,7 +4,7 @@ Repositorio para la clase _Desarrollo de Aplicaciones Moviles_ de la Universidad
 
 ### Retos
 
-- **Reto 0 : Hola Mundo en Android** [reto0.zip](https://github.com/Daviddager/movilesunal/blob/master/Retos/Reto0.zip)
+- **Reto 0 : Hola Mundo en Android** [reto0.zip](Retos/Reto0.zip)
 - **Reto 1**
 - **Reto 2**
 - **Reto 3**
