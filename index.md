@@ -5,7 +5,7 @@ Repositorio para la clase _Desarrollo de Aplicaciones Moviles_ de la Universidad
 ### Retos
 
 - **Reto 0 : Hola Mundo en Android**
-  [reto0.zip](url)
+  -[reto0.zip](url)
 - **Reto 1**
 - **Reto 2**
 - **Reto 3**
