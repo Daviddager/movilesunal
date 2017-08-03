@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Desarrollo de Aplicaciones Móviles
 
-You can use the [editor on GitHub](https://github.com/Daviddager/movilesunal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Repositorio para la clase _Desarrollo de Aplicaciones Moviles_ de la Universidad Nacional de Colombia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Retos
 
-### Markdown
+- **Reto 0 : Hola Mundo en Android**
+  [reto0.zip](url)
+- **Reto 1**
+- **Reto 2**
+- **Reto 3**
+- **Reto 4**
+- **Reto 5**
+- **Reto 6**
+- **Reto 7**
+- **Reto 7a**
+- **Reto 8**
+- **Reto 9**
+- **Reto 10**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Daviddager/movilesunal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Creado por David Ricardo Dáger Mora.
