@@ -17,5 +17,3 @@ Repositorio para la clase _Desarrollo de Aplicaciones Moviles_ de la Universidad
 - **Reto 8**
 - **Reto 9**
 - **Reto 10**
-
-Creado por David Ricardo Dáger Mora.
