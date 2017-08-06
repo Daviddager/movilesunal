@@ -17,4 +17,4 @@ Repositorio para la clase _Desarrollo de Aplicaciones Moviles_ de la Universidad
 - **Reto 9**
 - **Reto 10**
 
-[Ver en el Repositorio](https://github.com/Daviddager/movilesunal/tree/master/)
+[Ver en el Repositorio](https://github.com/Daviddager/movilesunal/tree/master/Retos)
