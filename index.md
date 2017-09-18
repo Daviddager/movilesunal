@@ -8,8 +8,8 @@ Repositorio para la clase _Desarrollo de Aplicaciones Moviles_ de la Universidad
 - **Reto 1 : Propuesta Proyecto** [reto1.zip](Retos/Reto1.zip)
 - **Reto 2 : Canvas y Mockups** [reto2.zip](Retos/Reto2.zip)
 - **Reto 3 : Juguemos Triqui** [reto3.zip](Retos/Reto3.zip)
-- **Reto 4**
-- **Reto 5**
+- **Reto 4 : Mejorando Nuestro Triqui** [reto4.zip](Retos/Reto4.zip)
+- **Reto 5 : Incorporando Gráficos y Sonido** [reto5.zip](Retos/Reto5.zip)
 - **Reto 6**
 - **Reto 7**
 - **Reto 7a**
