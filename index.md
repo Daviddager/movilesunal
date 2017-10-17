@@ -11,7 +11,7 @@ Repositorio para la clase _Desarrollo de Aplicaciones Moviles_ de la Universidad
 - **Reto 4 : Mejorando Nuestro Triqui** [reto4.zip](Retos/Reto4.zip)
 - **Reto 5 : Incorporando Gráficos y Sonido** [reto5.zip](Retos/Reto5.zip)
 - **Reto 6 : Cambiando de Orientiación y Guardando el Estado **[reto6.zip](Retos/Reto6.zip)
-- **Reto 7**
+- **Reto 7 : Preferencias**[reto7.zip](Retos/Reto7.zip)
 - **Reto 7a**
 - **Reto 8**
 - **Reto 9**
